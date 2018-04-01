@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hello! Android</string>
+    <string name="todo">TODO</string>
+    <string name="get_started">Get Started</string>
+    <string name="phone_0657_6990_56">phone: 0657-6990-56</string>
+    <string name="www_india_udacity_com">www.india@udacity.com</string>
+    <string name="udacity_for_student_so_never_stop_learning_learn_the_android_basics">Udacity for student so never stop learning.Learn the Android Basics</string>
+    <string name="phone_0657_6990_563">phone_0657_6990_563</string>
+    <string name="udacity">udacity</string>
+    <string name="_2465_latham_st_mountain_view_ca_94043">2465 Latham st Mountain View,CA 94043</string>
+    <string name="_650_555_5555">650-555-5555</string>
+</resources>
